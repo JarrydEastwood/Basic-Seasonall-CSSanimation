@@ -69,7 +69,7 @@ export default function Weather() {
     setRainfall(storeRainfall)
     setstoreSnowfall(storeSnowfall)
     setDataCheck(true);
-    setbackgroundClass("w-screen h-screen overflow-hidden " + locationDetails.locations[travelLocation].className);
+    setbackgroundClass("w-screen h-screen " + locationDetails.locations[travelLocation].className);
     console.log("This is backgroundClass " + backgroundClass);
     
     };
@@ -79,7 +79,7 @@ export default function Weather() {
 
 <div className={backgroundClass}>
   
-        <div className="w-1/2 mx-auto flex flex-wrap overflow-y-hidden">
+        <div className="w-10/12 mx-auto justify-center flex flex-wrap overflow-y-hidden">
 
         <div className="flex flex-row">
 
