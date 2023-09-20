@@ -1,0 +1,86 @@
+body{
+    z-index: 1;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .logo
+    {
+        z-index: 100;
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+        width: 6rem;
+        height: 6rem;
+        background-image: url("../public/static/images/logo.png");
+        background-size: auto 100%;
+        background-repeat: no-repeat;
+ 
+    }
+  .Havana{
+    background-image: url("../public//static/images/backgrounds/havana.png");
+    background-size: auto 100%;
+    background-position: contain;
+    background-repeat: repeat-x;
+  }
+
+  .Dubrovnik{
+    /* background-color: #20B6C9; */
+    background: linear-gradient(180deg, rgb(211, 109, 8) 0%, rgb(224, 183, 20) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
+
+  .Ubud{
+    background: linear-gradient(180deg, rgb(48, 211, 8) 0%, rgb(2, 122, 18) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
+
+  .Vancouver{
+    /* background-color: #20B6C9; */
+    background: linear-gradient(180deg, rgba(0,127,171,1) 0%, rgba(32,182,201,1) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
+
+  .Tokyo{
+    /* background-color: #20B6C9; */
+    background: linear-gradient(180deg, rgba(0,127,171,1) 0%, rgba(32,182,201,1) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
+
+  .Santorini{
+    /* background-color: #20B6C9; */
+    background: linear-gradient(180deg, rgb(211, 109, 8) 0%, rgb(224, 183, 20) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
+
+  .LosAngeles{
+    background: linear-gradient(180deg, rgb(48, 211, 8) 0%, rgb(2, 122, 18) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
+
+  .NewOrleans{
+    /* background-color: #20B6C9; */
+    background: linear-gradient(180deg, rgba(0,127,171,1) 0%, rgba(32,182,201,1) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
+
+  .Paris{
+    /* background-color: #20B6C9; */
+    background: linear-gradient(180deg, rgb(211, 109, 8) 0%, rgb(224, 183, 20) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
+
+  .Marrakesh{
+    background: linear-gradient(180deg, rgb(48, 211, 8) 0%, rgb(2, 122, 18) 100%);
+    background-size: 400% 400%;
+    animation: gradient 15s 5s ease-in infinite;
+  }
