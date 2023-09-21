@@ -4,7 +4,7 @@ export const locationDetails = {
             "id": 1,
             "country": "Cuba",
             "city": "Havana",
-            "className": "Havana",
+            "link": "havana",
             "long": "-82.3666",
             "lat": "23.1136",
 
@@ -24,7 +24,7 @@ export const locationDetails = {
             "id": 2,
             "country": "Canada",
             "city": "Vancouver",
-            "className": "Vancouver",
+            "link": "vancouver",
             "long": "-123.1207",
             "lat": "49.2827",
                       
@@ -44,7 +44,7 @@ export const locationDetails = {
             "id": 3,
             "country": "Greece",
             "city": "Santorini",
-            "className": "Santorini",
+            "link": "santorini",
             "long": "25.4615",
             "lat": "36.3932",
            
@@ -64,7 +64,7 @@ export const locationDetails = {
             "id": 4,
             "country": "Croatia",
             "city": "Dubrovnik",
-            "className": "Dubrovnik",
+            "link": "dubrovnik",
             "long": "18.0944",
             "lat": "42.6507",
             
@@ -84,7 +84,7 @@ export const locationDetails = {
             "id": 5,
             "country": "Japan",
             "city": "Tokyo",
-            "className": "Tokyo",
+            "link": "tokyo",
             "long": "139.6503",
             "lat": "35.6762",
             
@@ -104,7 +104,7 @@ export const locationDetails = {
             "id": 6,
             "country": "United States of America",
             "city": "Los Angeles",
-            "className": "LosAngeles",
+            "link": "losangeles",
             "long": "-118.243683",
             "lat": "34.052235",
             
@@ -124,7 +124,7 @@ export const locationDetails = {
             "id": 7,
             "country": "Indonesia",
             "city": "Ubud",
-            "className": "Ubud",
+            "link": "ubud",
             "long": "115.263298",
             "lat": "-8.519268",
             
@@ -144,7 +144,7 @@ export const locationDetails = {
             "id": 8,
             "country": "United States of America",
             "city": "New Orleans",
-            "className": "NewOrleans",
+            "link": "neworleans",
             "long": "-90.071533",
             "lat": "29.951065",
             
@@ -164,7 +164,7 @@ export const locationDetails = {
             "id": 9,
             "country": "France",
             "city": "Paris",
-            "className": "Paris",
+            "link": "paris",
             "long": "2.3522",
             "lat": "48.866",
             
@@ -184,7 +184,7 @@ export const locationDetails = {
             "id": 10,
             "country": "Morroco",
             "city": "Marrakesh",
-            "className": "Marrakesh",
+            "link": "marrakesh",
             "long": "-7.992047",
             "lat": "31.628674",
 

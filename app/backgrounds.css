@@ -1,96 +1,79 @@
-body{
-    z-index: 1;
-    font-family:Arial, Helvetica, sans-serif;
-    font-weight: 300;
-    font-style: normal;
-  }
-
-  .logo
+.logo
     {
         z-index: 100;
-        position: absolute;
-        top: 1rem;
-        left: 1rem;
-        width: 6rem;
-        height: 6rem;
         background-image: url("../public/static/images/logo.png");
         background-size: auto 100%;
         background-repeat: no-repeat;
  
     }
-  .Havana{
+
+  .havana{
     background-image: url("../public//static/images/backgrounds/havana.png");
-    background-size: 100% 100%;
+    background-size: auto 100%;
     background-repeat: no-repeat;
-    width: auto;
-    height: 100vh;
+    
+ 
   }
 
-  .Dubrovnik{
+  .dubrovnik{
     /* background-color: #20B6C9; */
     background: linear-gradient(180deg, rgb(211, 109, 8) 0%, rgb(224, 183, 20) 100%);
     background-size: 400% 400%;
     animation: gradient 15s 5s ease-in infinite;
   }
 
-  .Ubud{
+  .ubud{
         background-image: url("../public//static/images/backgrounds/ubud.png");
-        background-size: 100% 100%;
+        background-size: auto 100%;
         background-repeat: no-repeat;
-        width: auto;
-        height: 100vh;
+     
     }       
   
 
-  .Vancouver{
+  .vancouver{
     /* background-color: #20B6C9; */
     background: linear-gradient(180deg, rgba(0,127,171,1) 0%, rgba(32,182,201,1) 100%);
     background-size: 400% 400%;
     animation: gradient 15s 5s ease-in infinite;
   }
 
-  .Tokyo{
+  .tokyo{
     /* background-color: #20B6C9; */
     background: linear-gradient(180deg, rgba(0,127,171,1) 0%, rgba(32,182,201,1) 100%);
     background-size: 400% 400%;
     animation: gradient 15s 5s ease-in infinite;
   }
 
-  .Santorini{
+  .santorini{
     /* background-color: #20B6C9; */
     background: linear-gradient(180deg, rgb(211, 109, 8) 0%, rgb(224, 183, 20) 100%);
     background-size: 400% 400%;
     animation: gradient 15s 5s ease-in infinite;
   }
 
-  .LosAngeles{
+  .losangeles{
         background-image: url("../public//static/images/backgrounds/losangeles.png");
-        background-size: 100% 100%;
+        background-size: auto 100%;
         background-repeat: no-repeat;
-        width: auto;
-        height: 100vh;
+     
       }
 
-  .NewOrleans{
+  .neworleans{
     background-image: url("../public//static/images/backgrounds/neworleans.png");
-    background-size: 100% 100%;
+    background-size: auto 100%;
     background-repeat: no-repeat;
-    width: auto;
-    height: 100vh;
   }
 
-  .Paris{
+  .paris{
     background-image: url("../public//static/images/backgrounds/paris.png");
-    background-size: 100% 100%;
+    background-size: auto 100%;
     background-repeat: no-repeat;
-    width: auto;
-    height: 100vh;
+ 
   }
 
-  .Marrakesh{
+  .marrakesh{
     background-image: url("../public//static/images/backgrounds/marrakesh.png");
-    background-size: 100% 100%;
+    background-size: auto 100%;
     background-repeat: no-repeat;
-    width: auto;
-    height: 100vh;
+ 
   }
